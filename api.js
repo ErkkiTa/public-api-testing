@@ -16,7 +16,9 @@ function getJoke() {
 
 
 }
+
+
 document.getElementById('aamen').addEventListener("click", getJoke)
 
-getJoke()
+
 
